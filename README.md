@@ -1,3 +1,10 @@
+Author
+
+Pratyush Jha (BCA - AI & Data Science)
+
+
+
+
 # Java Assignment 2 - Calculator App
 
 This Java program demonstrates **method overloading** and **exception handling** using a simple calculator application.
@@ -15,6 +22,18 @@ java CalculatorApp
 
 
 
-Author
 
-Pratyush Jha (BCA - AI & Data Science)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
